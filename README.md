@@ -1,6 +1,6 @@
 # Lunar Lander - PPO Reinforcement Learning
 
-#Project Overview
+## Project Overview
 
 This project focuses on training an intelligent agent to control a lunar lander and achieve a safe landing in the LunarLanderContinuous-v3 environment using Reinforcement Learning.
 
