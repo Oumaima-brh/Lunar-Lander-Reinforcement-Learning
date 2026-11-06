@@ -1,4 +1,3 @@
-# Lunar-Lander-Reinforcement-Learning
 # Lunar Lander - PPO Reinforcement Learning
 
 ## Project Overview
